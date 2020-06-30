@@ -13,3 +13,6 @@ export const useWatch = <T>(
     };
   }, [watchable, fn]);
 };
+
+export { createStore, watchable } from 'stateverse';
+export default stateverse;
