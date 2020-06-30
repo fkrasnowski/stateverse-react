@@ -1,6 +1,6 @@
 {
   "name": "stateverse-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Complementary package for Stateverse - painless manager for async state changes and side effects",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
