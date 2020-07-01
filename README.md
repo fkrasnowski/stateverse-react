@@ -43,4 +43,4 @@ const Counter = () => {
 };
 ```
 
-See [Stateverse](https://github.com/fkrasnowski/stateverse) for full documentaion
+See [Stateverse](https://github.com/fkrasnowski/stateverse) for full documentation

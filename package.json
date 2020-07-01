@@ -12,6 +12,15 @@
     "build": "tsc",
     "prepublishOnly": "npm run build && npm test"
   },
+  "keywords": [
+    "state-management",
+    "async",
+    "side-effects",
+    "state",
+    "typescript",
+    "react",
+    "react-hooks"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fkrasnowski/stateverse-react.git"
